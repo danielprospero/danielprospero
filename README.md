@@ -1,4 +1,4 @@
-![banner](https://github.com/danielprospero/danielprosperoribeiro/blob/main/img/keyboard-1385706_1920.jpg?raw=true)
+![banner]()
 
 <h1 align="center">Olá 👋, eu sou Daniel Próspero</h1>
 <h3 align="center">Áqui voçê encontra projetos usando HTML, CSS, PHP, JavaScripts, Asterisk e Linux.</h3>
