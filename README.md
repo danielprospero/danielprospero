@@ -1,6 +1,6 @@
 ![banner](https://github.com/danielprospero/danielprosperoribeiro/blob/main/img/keyboard-1385706_1920.jpg?raw=true)
 
-<h1 align="center">Olá 👋, eu sou Daniel Próspero Ribeiro</h1>
+<h1 align="center">Olá 👋, eu sou Daniel Próspero</h1>
 <h3 align="center">Áqui voçê encontra projetos usando HTML, CSS, PHP, JavaScripts, Asterisk e Linux.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielprospero&label=Profile%20views&color=0e75b6&style=flat" alt="danielprospero" /> </p>
