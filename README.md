@@ -32,6 +32,9 @@
 
 ![Snake animation](https://github.com/danielprospero/danielprospero/blob/output/github-contribution-grid-snake.svg)
 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/danielprospero/danielprospero/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/danielprospero/danielprospero/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielprospero&show_icons=true&theme=dark&locale=en&layout=compact" alt="danielprospero" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielprospero&show_icons=true&theme=dark&locale=en" alt="danielprospero" /></p>
